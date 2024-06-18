@@ -101,7 +101,7 @@ body{
 #flag{
     display: flex;
     max-width: 600px;
-    margin: 50px auto;
+    margin: 20px auto;
 }
 
 #click{
@@ -112,6 +112,7 @@ body{
 #text{
     text-align: center;
     font-size: 1.5rem;
+    color: white;
 }
 
 .next{
